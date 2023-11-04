@@ -5,7 +5,7 @@ U-Net implementation
 Implementation of U-Net based on the paper along with a close-look into the model architeture and training scheme. 
 
 # How to run 
-run  
+Run  
 ```console
 python main.py
 ```
